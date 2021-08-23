@@ -31,8 +31,8 @@ console.log(ultimosDos(moana))
 console.log(ultimosDos(frozen))
 
 // 5. Hacer una función "conservarSoloConA" que reciba un array y retorne un nuevo array compuesto solo por los elementos del original que contienen la letra "A". 
-
-const conservarSoloConA = (array, nombre) => {}
+// (pista: vas a necesitar ademas un metodo de strings)
+const conservarSoloConA = (array) => {}
 
 console.log(conservarSoloConA(moana)) 
 console.log(conservarSoloConA(frozen))
