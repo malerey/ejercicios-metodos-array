@@ -25,7 +25,7 @@ console.log(incluyeNombre(frozen, "Ana"))
 
 // 4. Hacer una funcion "ultimosDos" que reciba un array y retorne un array con los ultimos dos elementos del original. 
 
-const ultimosDos = (array, nombre) => {}
+const ultimosDos = (array) => {}
 
 console.log(ultimosDos(moana)) 
 console.log(ultimosDos(frozen))
